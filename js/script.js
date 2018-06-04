@@ -6,7 +6,7 @@ var wizardWidth = 70;
 var WizardHeight;
 
 function getFireballSpeed(left) {
-  return left ?  5 : 2;
+  return left ? 5 : 2;
 }
 
 function getWizardHeight() {
